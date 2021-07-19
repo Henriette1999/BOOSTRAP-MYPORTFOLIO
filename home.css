@@ -1,3 +1,4 @@
+html { scroll-behavior: smooth; }
 body{
   display: block;
   content: '';
@@ -10,3 +11,9 @@ body{
 }
 /*@media(JQUERY), min-width: 768px: it is for the mediam screen. 
 (.newa-input)is the class in html*/
+
+/*Third party of th sections*/
+.card-title{
+  color: rgb(34, 9, 9);
+  font-weight: bold;
+}
